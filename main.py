@@ -4,5 +4,5 @@ def hello(a):
     return msg
 
 
-if __name__ == "__main__":
+if __name__ == "__main__": # pragma: no cover
     hello("alan")
